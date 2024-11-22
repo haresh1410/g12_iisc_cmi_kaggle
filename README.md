@@ -1,1 +1,1 @@
-# g12_iisc_cmi_kaggle
+Initial commit for Kaggle competition: https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use
